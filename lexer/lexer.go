@@ -32,8 +32,7 @@ func (l *Lexer) readChar() {
 func (l *Lexer) NextToken() {
 	
 
-
-	// switch tok.
+ 
 
 	// switch tok.
 }
